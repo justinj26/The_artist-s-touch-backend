@@ -46,3 +46,5 @@ Some technical specs, the forms were all implemented using Quilljs, an open sour
 the rest was made with plain javascript.  Authentication pending!!!
 
 The backend was also made using the api configuration of Ruby on Rails, and Postgresql as the database!!!
+
+Here's the front end: https://github.com/justinj26/The-Artist-s-Touch
