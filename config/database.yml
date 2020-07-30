@@ -25,10 +25,7 @@ development:
   <<: *default
   database: The_Artist_s_Touch__backend_development
 
-  host: localhost
-  port: 5432
-  username: justin_dev
-  password: just3EAE
+#  HERE, I DELETED MY USERNAME, PASSWORD, PORT, AND HOST FROM THE DEVELOPMENT AND TEST SECTIONS
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -64,10 +61,6 @@ test:
   <<: *default
   database: The_Artist_s_Touch__backend_test
 
-  host: localhost
-  port: 5432
-  username: justin_dev
-  password: just3EAE
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
